@@ -30,7 +30,7 @@ Este proyecto se encuentra terminado ✅, al día 08 de agosto del 2022, el proy
 
 # Url para Clone
 
-### xxx
+### https://github.com/josedbolivarma/PT-Rick-and-Morty-App-TS
 
 Esta es una aplicación React, puedes clonar el repositorio y utilizar el comando:
 
@@ -69,7 +69,7 @@ Consulte la sección sobre [implementación](https://facebook.github.io/create-r
 
 # Despliegue:
 
-- [Rick and Morty App](xxx)
+- [Rick and Morty App](https://pt-rick-and-morty-app-ts.vercel.app/)
 
 ## Este proyecto ha sido construido con:
 
