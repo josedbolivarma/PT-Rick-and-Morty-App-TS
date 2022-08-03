@@ -1,46 +1,86 @@
-# Getting Started with Create React App
+# 👋🏼 Hola! Bienvenido a mi prueba tecnica!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 align="center"><strong>Nos da gusto que te intereses en este proyecto</strong></h3>
 
-## Available Scripts
+# Estado del Proyecto:
 
-In the project directory, you can run:
+Este proyecto se encuentra terminado ✅, al día 08 de agosto del 2022, el proyecto ha pasado por una serie de pruebas y ha sido desplegado con las diferentes funcionalidades que se han previamente establecido. El proyecto fue construido mediante el comando npx create-react-app --template typescript y está en su versión 18.2.0.
 
-### `npm start`
+# Este Repositorio en tu entorno
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Requisitos previos recomendados:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+-  Versión más reciente de Windows 10 (versión posterior a la 1903 y compilación posterior a la 18362) o Windows 11.
+-  Subsistema de Windows para Linux (WSL), incluida una distribución de Linux (como Ubuntu), y asegúrese de que se ejecuta en modo WSL 2. Para comprobarlo, abre PowerShell y escribe: wsl -l -v.
+-   Node.js en WSL 2.
 
-### `npm test`
+### Cómo clonar el Repositorio en Windows:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Copia la url del repositorio.
+- Abre cmd (ventana de comandos), y navega con cd a la carpeta en la que quieras clonar.
+- Utiliza el comando git clone y pega la url, presiona Enter.
+- También puedes usar git bash directamente.
+
+### Cómo clonar usando la terminal de Ubuntu:
+
+- Abre Git Bash.
+- Vaya al directorio actual donde desea que se agregue el directorio clonado.
+- utiliza la url de este repo ya copiada.
+- Haga clic en “Clonar o descargar” y copie la URL.
+
+# Url para Clone
+
+### xxx
+
+Esta es una aplicación React, puedes clonar el repositorio y utilizar el comando:
+
+```
+npm i
+```
+
+Para probar el proyecto de forma local, puedes correr:
+
+```
+npm start
+```
+Para correr las pruebas:
+
+```
+npm test
+```
+Inicia el corredor de prueba en el modo de reloj interactivo.\
+Consulte la sección sobre [ejecutar pruebas] (https://facebook.github.io/create-react-app/docs/running-tests) para obtener más información.
+Puedes correr la aplicación en modo desarrollo.\
+
+Abre [http://localhost:3000](http://localhost:3000) para ver en tu navegador.
+
+
+La página se recargará cuando realices cambios. Puedes ver errores en la consola.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Construye la aplicación para producción en la carpeta `build`.\
+Empaqueta correctamente React en modo de producción y optimiza la compilación para obtener el mejor rendimiento.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+La compilación se minimiza y los nombres de archivo incluyen los hashes.\
+¡Tu aplicación está lista para ser implementada!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Consulte la sección sobre [implementación](https://facebook.github.io/create-react-app/docs/deployment) para obtener más información.
 
-### `npm run eject`
+# Despliegue:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [Rick and Morty App](xxx)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Este proyecto ha sido construido con:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* [React](https://es.reactjs.org/) : ^18.2.0 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Algunos usos importantes del proyecto:
 
-## Learn More
+* [Axios](https://axios-http.com/docs/intro) : ^0.27.2
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* [react-infinite-scroll-component](https://www.npmjs.com/package/react-infinite-scroll-component) : ^6.1.0
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# 📚 Autor:
+
+- [Jose David Bolivar Mayora](https://github.com/josedbolivarma) Desarrollador Frontend. 
