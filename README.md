@@ -73,7 +73,7 @@ Consulte la sección sobre [implementación](https://facebook.github.io/create-r
 
 ## Este proyecto ha sido construido con:
 
-* [React](https://es.reactjs.org/) : ^18.2.0 
+* [React TypeScript](https://es.reactjs.org/) : ^18.2.0 
 
 ### Algunos usos importantes del proyecto:
 
