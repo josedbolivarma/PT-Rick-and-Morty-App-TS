@@ -38,7 +38,7 @@ export const Modal = () => {
         <span onClick={ closeModal }>
             <img
             className='modal_close'
-            src="https://cdn.icon-icons.com/icons2/1238/PNG/512/xbutton_83749.png" 
+            src="https://static.thenounproject.com/png/6447-200.png" 
             alt="Close Modal" />
         </span>
 
