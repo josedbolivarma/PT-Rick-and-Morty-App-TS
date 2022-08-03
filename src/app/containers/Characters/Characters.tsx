@@ -71,7 +71,7 @@ export const Characters = () => {
                       className='btn-load'
                       onClick={ moreCharacters }
                       >
-                      LOAD MORE
+                      LOAD CHARACTERS
                     </button> 
                   </div>
                 }
@@ -122,9 +122,9 @@ export const Characters = () => {
             
         }
 
-        
-
+        {/* MODAL */}
         <Modal />
+        {/* MODAL */}
     </div>
   )
 }
